@@ -10,3 +10,5 @@ We learned that there is a git ignore option and it's usefulness.
 We learned you have to update xcode in order to use git if you update your mac.
 
 We learned how to make remote repositories.
+
+We learnt how to create feature branches, make a pull request and request reviews 
